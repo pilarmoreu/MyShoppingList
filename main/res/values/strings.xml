@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Shopping List</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="cabecera">Lista de la Compra</string>
+    <string name="info">Pulsa durante unos segundos un artículo del listado para modificarlo o eliminarlo.</string>
+    <string name="tituloMenu1">Nuevo artículo</string>
+    <string name="etiquetaNombre">Nombre</string>
+    <string name="etiquetaprecio">Precio</string>
+</resources>
